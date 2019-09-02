@@ -6,7 +6,5 @@ excerpt:
 date: 2016-10-1
 venue: 'International Conference on Mobile Ad-Hoc and Sensor Networks (MSN)'
 paperurl: 'http://weijunalexwang.github.io/files/07950233.pdf'
-citation: 'Weijun, Wang. (2016). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
----
 
 [Download paper here](http://weijunalexwang.github.io/files/07950233.pdf)
