@@ -8,3 +8,6 @@ venue: 'International Conference on Wireless Communications and Signal Processin
 ---
 
 [Download paper here](http://weijunalexwang.github.io/files/07752659.pdf) 
+
+## Abstract
+You can put the full text of the paper in this markdown file. The journal, date, citation, and paperurl will populate automatically based on the YAML variables, and then the text below (this text) will be displayed.
