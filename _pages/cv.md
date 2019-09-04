@@ -29,7 +29,6 @@ Scholarships and Awards
 * 2018 Alibaba Tianchi Cloud Container Schduling Competition: Rank 80/2000+
 * 2017 Excellent Master Dissertation Award Candidate of PLA University of Science and Technology
 * 2016 First Prize (East China) of the 11th China graduate electronic design contest
-* 2014 Outstanding Students Leaders Award of Nanjing University of Post and Telecommunication
   
 Teaching Assistant
 ======
