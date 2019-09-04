@@ -14,7 +14,7 @@ Education
 * B.S. in Software Engineering, Nanjing University of Post and Telecommunication, 2014
 * M.S. in Computer Technology, Communication Enginerring College, 2017
 * Ph.D in Computer Science, Nanjing University, 2021 (expected)
-* Visiting Scholar in Computer and Information Science, Temple University, 2019.9 - now
+** Visiting Scholar in Computer and Information Science, Temple University, 2019.9 - now
   
 Skills
 ======
