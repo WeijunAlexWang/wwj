@@ -32,7 +32,7 @@ Scholarships and Awards
   
 Teaching Assistant
 ======
-* September, 2018 - January, 2018, Mathematical Analysis I, Department of Artiﬁcial Intelligence, Nanjing University
+* September, 2018 - January, 2019, Mathematical Analysis I, Department of Artiﬁcial Intelligence, Nanjing University
 * February, 2019 - June, 2019, Mathematical Analysis II, Department of Artiﬁcial Intelligence, Nanjing University
 * September, 2017 - January, 2018, Technology of Network security and detection, Department of Computer Science and Technology, Nanjing University 
   
