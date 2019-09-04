@@ -3,7 +3,7 @@ title: "Mathematical Analysis I"
 collection: teaching assistant
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+venue: "Nanjing University, Department of Artiﬁcial Intelligence"
 date: 2018-09-16
 location: "Nanjing, China"
 ---
