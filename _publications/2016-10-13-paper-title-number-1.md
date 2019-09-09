@@ -1,8 +1,8 @@
 ---
-title: "A packet-based load balancing scheme for network coding in tactical heterogeneous wireless networks"
+title: "$\color{red}{[WCSP]}$ A packet-based load balancing scheme for network coding in tactical heterogeneous wireless networks"
 collection: publications
 permalink: /publication/2011-10-01-paper-title-number-1
-excerpt: 'Jiejie Xie, Chao Dong, Hai Wang and Weijun Wang*'
+excerpt: 'Jiejie Xie, Chao Dong, Hai Wang and **Weijun Wang**'
 date: 2016-10-13
 venue: 'International Conference on Wireless Communications and Signal Processing (WCSP)'
 ---
