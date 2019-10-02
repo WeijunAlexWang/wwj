@@ -8,6 +8,7 @@ author_profile: true
 **Journal Articles**
 * $\color{red}{[TMC]}$ Xiaoyu Wang, Haipeng Dai, **Weijun Wang**, Jiaqi Zheng, Guihai Chen, Wanchun Dou and Xiaobing Wu. [Practical Heterogeneous Wireless Charger Placement with Obstacles.](http://weijunalexwang.github.io/files/PHWCPO.pdf) In Proceedings of IEEE Transactions on Mobile Computing (TMC), 2019. Accepted.
 * $\color{red}{[TON]}$ **Weijun Wang**, Haipeng Dai, Chao Dong, Xiao Cheng, Xiaoyu Wang, Panlong Yang, Guihai Chen. [Placement of Unmanned Aerial Vehicles for Directional Coverage in 3D Space.] In Proceedings of IEEE/ACM Transactions on Networking (ToN), 2019. Major.
+* $\color{red}{[TON]}$ **Weijun Wang**, Haipeng Dai, Chao Dong, Fu Xiao, Xiao Cheng, Guihai Chen. [Placement of Unmanned Aerial Vehicles for Anisotropic Monitoring Tasks.] In Proceedings of IEEE Transactions on Mobile Computing (TMC). Under review.
 
 **Conference Papers**
 
@@ -17,5 +18,5 @@ author_profile: true
 * $\color{red}{[VTC'17]}$ Jiejie Xie, Chao Dong, Aijing Li, Hai Wang and **Weijun Wang**. [Optimal Deployment Density for Maximum Coverage of Drone Small Cell.](http://weijunalexwang.github.io/files/08288313.pdf) In Proceedings of IEEE Vehicular Technology Conference, (VTC Fall), 2017
 * $\color{red}{[ICC'17]}$ Haipeng Dai, **Weijun Wang**, Chao Dong, Sen Zhu and Hai Wang. [DFRA: Demodulation-free random access for UAV ad hoc networks.](http://weijunalexwang.github.io/files/07997364.pdf) In Proceedings of IEEE International Conference on Communications (ICC), 2017.
 * $\color{red}{[MSN'16]}$ **Weijun Wang**, Chao Dong, Hai Wang and Jiang Anzhou. [Design and Implementation of Adaptive MAC Framework for UAV Ad Hoc Networks.](http://weijunalexwang.github.io/files/07950233.pdf) In Proceedings of IEEE International Conference on Mobile Ad-Hoc and Sensor Networks (MSN), 2016.
-$\color{red}{[WCSP'16]}$ Jiejie Xie, Chao Dong, Hai Wang and **Weijun Wang**. [A packet-based load balancing scheme for network coding in tactical heterogeneous wireless networks.](http://weijunalexwang.github.io/files/07752659.pdf) In Proceedings of the IEEE International Conference on Wireless Communications and Signal Processing (WCSP), 2016.
+* $\color{red}{[WCSP'16]}$ Jiejie Xie, Chao Dong, Hai Wang and **Weijun Wang**. [A packet-based load balancing scheme for network coding in tactical heterogeneous wireless networks.](http://weijunalexwang.github.io/files/07752659.pdf) In Proceedings of the IEEE International Conference on Wireless Communications and Signal Processing (WCSP), 2016.
 
