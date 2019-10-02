@@ -12,7 +12,7 @@ Contact
 -----
 weijunwang@smail.nju.edu.cn
 
-Nanjing University Xianlin Campus,\\
+Nanjing University Xianlin Campus,$\n$
 163 Xianlin Avenue, Qixia District,
 Nanjing, Jiangsu 210023, China
 
