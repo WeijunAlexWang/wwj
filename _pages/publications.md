@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+**Conference Papers**
+
+* $\color{red}{[INFOCOM'19]}$ **Weijun Wang**, Haipeng Dai, Chao Dong, Fu Xiao, Xiao Chen, Guihai Chen. [VISIT: Placement of Unmanned Aerial Vehicles for Anisotropic Monitoring Tasks.](http://weijunalexwang.github.io/files/VISIT2019.pdf) In Proceedings of IEEE International Conference on Sensing, Communication and Networking (SECON), 2019.
 * $\color{red}{[INFOCOM'19]}$ **Weijun Wang**, Haipeng Dai, Chao Dong, Xiao Chen, Xiaoyu Wang, Guihai Chen, Wanchun Dou. [PANDA: Placement of Unmanned Aerial Vehicles Achieving 3D Directional Coverage.](http://weijunalexwang.github.io/files/08737545.pdf) In Proceedings of IEEE International Conference on Computer Communications (INFOCOM), 2019.
 * $\color{red}{[ICPP'18]}$ Xiaoyu Wang, Haipeng Dai, **Weijun Wang**, Jiaqi Zheng, Guihai Chen, Wanchun Dou and Xiaobing Wu. [Heterogeneous Wireless Charger Placement with Obstacles.](http://weijunalexwang.github.io/files/08714083.pdf) In Proceedings of IEEE International Conference on Parallel Processing (ICPP), 2018.
 * $\color{red}{[VTC'17]}$ Jiejie Xie, Chao Dong, Aijing Li, Hai Wang and **Weijun Wang**. [Optimal Deployment Density for Maximum Coverage of Drone Small Cell.](http://weijunalexwang.github.io/files/08288313.pdf) In Proceedings of IEEE Vehicular Technology Conference, (VTC Fall), 2017
