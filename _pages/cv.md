@@ -35,7 +35,7 @@ Service
   * IEEE International Conference on Wireless Communications and Signal Processing (WCSP). 2016 - present.
   * IEEE International Conference on Communications (ICC). 2016 - present.
   * IEEE Global Communications Conference (GLOBECOM). 2016 - present.
-  * IEEE International Conference on Mobile Ad hoc and Sensor Systems (MASS). 2018 present.
+  * IEEE International Conference on Mobile Ad hoc and Sensor Systems (MASS). 2018 - present.
   * IEEE Sensors Journal. 2018 - present.
   * IFIP International Conferences on Networking (Networking). 2018 - present.
   * Elsevier Computer Networks (COMNET). 2018 - present.
