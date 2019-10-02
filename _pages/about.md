@@ -24,7 +24,7 @@ Currently, I am a 3rd-year Ph.D. candidate in Department of Computer Science and
 
 Research Interests
 -----
-Wireless Sensor Networks, UAV Networks, Cloud Computing and Crowdsensing. 
+Wireless Sensor Networks, UAV Networks, Edge Computing and Crowdsensing. 
 
 Selected Publications
 -----
