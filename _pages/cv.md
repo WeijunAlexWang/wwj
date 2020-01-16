@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D Candidate in Computer Science, Nanjing University, 2017 - Now
-** Joint-PhD Student in Faculty of Mathematics and Computer Science, Georg-August-University of Göttingen, 2020 - Now
+  * Joint-PhD Student in Faculty of Mathematics and Computer Science, Georg-August-University of Göttingen, 2020 - Now
 * M.S. in Computer Technology, PLA University of Science and Technology, 2017
 * B.S. in Software Engineering, Nanjing University of Post and Telecommunication, 2014
   
