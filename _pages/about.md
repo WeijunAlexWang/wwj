@@ -18,7 +18,7 @@ Nanjing, Jiangsu 210023, China
 
 Biography
 -----
-Currently, I am a Ph.D student in Computer Networks Group in Faculty of Mathmatics and Computer Science in George-August University Goettingen supervised by Prof. [Xiaoming Fu](https://user.informatik.uni-goettingen.de/~fu/). Before that I am in Department of Computer Science and Technology in Nanjing University advised by Prof. [Guihai Chen](https://cs.nju.edu.cn/gchen/) and A.P. [Haipeng Dai](https://cs.nju.edu.cn/daihp/index.htm). I respectively received my M.E. degree in Computer Technoloty from PLA University of Science and Technology, in 2017 and B.S. degree in Software Engineering in Nanjing University of of Post and Telecommunication, in 2014.
+Currently, I am in LANDS (Laboratory of Advanced Network and Data Science) Group in Department of Computer Science and Technology in Nanjing University headed by Prof. [Guihai Chen](https://cs.nju.edu.cn/gchen/). I respectively received my M.E. degree in Computer Technoloty from PLA University of Science and Technology, in 2017 and B.S. degree in Software Engineering in Nanjing University of of Post and Telecommunication, in 2014.
 
 Research Interests
 -----
