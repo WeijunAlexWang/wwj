@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Weijun Wang / Ph.D Student"
+title                    : "Weijun Wang"
 title_separator          : "-"
 name                     : &name "Your name"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Weijun Wang"
   avatar           : "pagephoto.jpg"
-  bio              : "Ph.D candidate, Computer Science, Nanjing University"
+  bio              : "Computer Science, Nanjing University"
   location         : "Jiangsu, Nanjing"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
