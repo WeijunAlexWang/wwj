@@ -23,7 +23,7 @@ Currently, I am in Computer Network Group in Faculty of Mathematics and Computer
 
 Research Interests
 -----
-Wireless Sensor Networks, UAV Networks, Edge Computing and Crowdsensing. 
+Wireless Sensor Networks, UAV Networks, Edge Computing, Video Stream and Video Analytic. 
 
 Selected Publications
 -----
