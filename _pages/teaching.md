@@ -13,7 +13,7 @@ From September, 2018 to January, 2019, as teaching assistant of Mathematical Ana
 * **Mathematical Analysis II**, teaching assistant, Nanjing University, Nanjing, China.\\
 From February, 2019 to June, 2019, as teaching assistant of Mathematical Analysis II in Department of Artiﬁcial Intelligence.
 
-**Undergraduate Course**
+**Graduate Course**
 
 * **Seminar on Internet Technologies**, teaching assistant, University of Goettingen, Goettigen, Germany.\\
 From April, 2020 to August 2020, as teaching assistant of Seminar on Internet Technologies take charge of **Combinatorial Optimization with Machine Learning method** topic, in Falcuty of Mathematics and Computer Science.
