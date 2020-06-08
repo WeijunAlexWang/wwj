@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Weijun Wang"
+title: "Weijun Alex Wang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
