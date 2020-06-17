@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Weijun Alex Wang"
+title: "[Weijun Alex Wang](https://scholar.google.com/citations?view_op=list_works&hl=en&user=ApKD824AAAAJ)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
