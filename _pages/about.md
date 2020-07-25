@@ -30,8 +30,9 @@ Selected Publications
 **Journal Articles**
 
 * $\color{red}{[TMC]}$ **Weijun Wang**, Haipeng Dai, Chao Dong, Fu Xiao, Jiaqi Zheng, Xiao Cheng, Guihai Chen, Xiaoming Fu. [Deployment of Unmanned Aerial Vehicles for Anisotropic Monitoring Tasks] In Proceedings of IEEE Transactions on Mobile Computing (TMC), 2020.
-* $\color{red}{[TMC]}$ Xiaoyu Wang, Haipeng Dai, **Weijun Wang**, Jiaqi Zheng, Guihai Chen, Wanchun Dou and Xiaobing Wu. [Practical Heterogeneous Wireless Charger Placement with Obstacles.](http://weijunalexwang.github.io/files/PHWCPO.pdf) In Proceedings of IEEE Transactions on Mobile Computing (TMC), 2019.
 * $\color{red}{[TON]}$ **Weijun Wang**, Haipeng Dai, Chao Dong, Xiao Cheng, Xiaoyu Wang, Panlong Yang, Guihai Chen. [Placement of Unmanned Aerial Vehicles for Directional Coverage in 3D Space.](http://weijunalexwang.github.io/files/TON18PANDA.pdf) In Proceedings of IEEE/ACM Transactions on Networking (ToN), Volume: 28 , Issue: 2 , April 2020.
+* $\color{red}{[TMC]}$ Xiaoyu Wang, Haipeng Dai, **Weijun Wang**, Jiaqi Zheng, Guihai Chen, Wanchun Dou and Xiaobing Wu. [Practical Heterogeneous Wireless Charger Placement with Obstacles.](http://weijunalexwang.github.io/files/PHWCPO.pdf) In Proceedings of IEEE Transactions on Mobile Computing (TMC), 2019.
+
 
 **Conference Papers**
 
