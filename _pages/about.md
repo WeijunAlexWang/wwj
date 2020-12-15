@@ -25,6 +25,12 @@ Research Interests
 -----
 Wireless Sensor Networks, UAV Networks, Edge Computing, Video Stream and Video Analytic. 
 
+Professional Service
+-----
+**PC Member**
+
+* The 16th International Conference on Mobility, Sensing and Networking (IEEE MSN 2020) - Workshop on Edge Computing and Artiﬁcial Intelligence based Sensor-Cloud System (ECAISS).
+
 Selected Publications
 -----
 **Journal Articles**
