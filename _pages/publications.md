@@ -12,7 +12,7 @@ author_profile: true
 
 
 **Conference Papers**
-
+* $\color{red}{[Technical Report]}$ **Weijun Wang**, Haipeng Dai, Yue Zhao, Chao Dong, Bangbang Ren, Guihai Chen, Xiaoming Fu. [Deploying Adjustable Multi-camera UAVs for Monitoring Tasks。](http://weijunalexwang.github.io/files/MOBIHOC21.pdf) Submit to ACM International Symposium on Mobile Ad Hoc Networking and Computing (MobiHoc), 2021.
 * $\color{red}{[SECON'19]}$ **Weijun Wang**, Haipeng Dai, Chao Dong, Fu Xiao, Xiao Chen, Guihai Chen. [VISIT: Placement of Unmanned Aerial Vehicles for Anisotropic Monitoring Tasks.](http://weijunalexwang.github.io/files/VISIT2019.pdf) In Proceedings of IEEE International Conference on Sensing, Communication and Networking (SECON), 2019.
 * $\color{red}{[INFOCOM'19]}$ **Weijun Wang**, Haipeng Dai, Chao Dong, Xiao Chen, Xiaoyu Wang, Guihai Chen, Wanchun Dou. [PANDA: Placement of Unmanned Aerial Vehicles Achieving 3D Directional Coverage.](http://weijunalexwang.github.io/files/08737545.pdf) In Proceedings of IEEE International Conference on Computer Communications (INFOCOM), 2019.
 * $\color{red}{[ICPP'18]}$ Xiaoyu Wang, Haipeng Dai, **Weijun Wang**, Jiaqi Zheng, Guihai Chen, Wanchun Dou and Xiaobing Wu. [Heterogeneous Wireless Charger Placement with Obstacles.](http://weijunalexwang.github.io/files/08714083.pdf) In Proceedings of IEEE International Conference on Parallel Processing (ICPP), 2018.
