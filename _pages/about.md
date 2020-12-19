@@ -1,17 +1,6 @@
 ---
 permalink: /
-<table style="margin-left: auto; margin-right: auto;">
-        <tr>
-            <td>
-                title: "[Weijun Alex Wang](https://scholar.google.com/citations?view_op=list_works&hl=en&user=ApKD824AAAAJ)"
-                左侧
-            </td>
-            <td>
-                <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=Q--h7zIooBxu8Cd23oK_k5dWtLNe2XU1E_MAC9iir_I"></script>
-                右侧
-            </td>
-        </tr>
-    </table>
+title: "[Weijun Alex Wang](https://scholar.google.com/citations?view_op=list_works&hl=en&user=ApKD824AAAAJ)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -20,11 +9,21 @@ redirect_from:
 ---
 Contact
 -----
-weijun.wang@cs.uni-goettingen.de
-Institute of Computer Science, \\
-Faculty of Mathematices and Computer Science,\\
-University of Goettingen,\\
-37077 Goettingen, German
+<table style="margin-left: auto; margin-right: auto;">
+        <tr>
+            <td>
+                weijun.wang@cs.uni-goettingen.de
+                Institute of Computer Science, \\
+                Faculty of Mathematices and Computer Science,\\
+                University of Goettingen,\\
+                37077 Goettingen, German
+            </td>
+            <td>
+                <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=Q--h7zIooBxu8Cd23oK_k5dWtLNe2XU1E_MAC9iir_I"></script>
+                右侧
+            </td>
+        </tr>
+    </table>
 
 Biography
 -----
