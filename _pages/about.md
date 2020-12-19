@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=Q--h7zIooBxu8Cd23oK_k5dWtLNe2XU1E_MAC9iir_I"></script>
 Contact
 -----
 weijun.wang@cs.uni-goettingen.de
