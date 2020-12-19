@@ -1,13 +1,13 @@
 ---
 permalink: /
 title: "[Weijun Alex Wang](https://scholar.google.com/citations?view_op=list_works&hl=en&user=ApKD824AAAAJ)"
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=Q--h7zIooBxu8Cd23oK_k5dWtLNe2XU1E_MAC9iir_I"></script>
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=Q--h7zIooBxu8Cd23oK_k5dWtLNe2XU1E_MAC9iir_I"></script>
 Contact
 -----
 weijun.wang@cs.uni-goettingen.de
