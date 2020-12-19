@@ -9,21 +9,12 @@ redirect_from:
 ---
 Contact
 -----
-<table style="margin-left: auto; margin-right: auto;">
-        <tr>
-            <td>
-                weijun.wang@cs.uni-goettingen.de
-                Institute of Computer Science, \\
-                Faculty of Mathematices and Computer Science,\\
-                University of Goettingen,\\
-                37077 Goettingen, German
-            </td>
-            <td>
-                <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=Q--h7zIooBxu8Cd23oK_k5dWtLNe2XU1E_MAC9iir_I"></script>
-            </td>
-        </tr>
-    </table>
-
+weijun.wang@cs.uni-goettingen.de
+Institute of Computer Science, \\
+Faculty of Mathematices and Computer Science,\\
+University of Goettingen,\\
+37077 Goettingen, German
+         
 Biography
 -----
 Currently, I am in Computer Network Group in Faculty of Mathematics and Computer Science, University of Goettingen headed by Prof. [Xiaoming Fu](https://user.informatik.uni-goettingen.de/~fu/) and Prof. [Marcus Baum](https://www.uni-goettingen.de/de/523550.html). Meanwhile, I am also in [LANDS](https://cs.nju.edu.cn/lands/index.htm) (Laboratory of Advanced Network and Data Science) Group in Department of Computer Science and Technology in Nanjing University headed by Prof. [Guihai Chen](https://cs.nju.edu.cn/gchen/). I respectively received my M.E. degree in Computer Technoloty from PLA University of Science and Technology, in 2017 and B.S. degree in Software Engineering in Nanjing University of of Post and Telecommunication, in 2014.
