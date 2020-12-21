@@ -12,7 +12,7 @@ author_profile: true
 
 
 **Conference Papers**
-* $\color{red}{[Technical Report]}$ **Weijun Wang**, Haipeng Dai, Yue Zhao, Chao Dong, Bangbang Ren, Guihai Chen, Xiaoming Fu. [Deploying Adjustable Multi-camera UAVs for Monitoring Tasks.](http://weijunalexwang.github.io/files/MOBIHOC21.pdf) Submit to ACM International Symposium on Mobile Ad Hoc Networking and Computing (MobiHoc), 2021.
+* $\color{red}{[Technical\ Report]}$ **Weijun Wang**, Haipeng Dai, Yue Zhao, Chao Dong, Bangbang Ren, Guihai Chen, Xiaoming Fu. [Deploying Adjustable Multi-camera UAVs for Monitoring Tasks.](http://weijunalexwang.github.io/files/MOBIHOC21.pdf) Submit to ACM International Symposium on Mobile Ad Hoc Networking and Computing (MobiHoc), 2021, Under Review.
 * $\color{red}{[EWSN'21]}$ **Weijun Wang**, Tingting Yuan, Minghao Han, Meng Li, Han Zhang, Yu Ma, Sripriya Srikant Adhatarao, Xiaoming Fu. [Poster: A Real-time Social Distance Measurement and Record System for COVID-19.] In Proceedings of ACM International Conference on Embedded Wireless Systems and Networks (EWSN), 2021.
 * $\color{red}{[SECON'19]}$ **Weijun Wang**, Haipeng Dai, Chao Dong, Fu Xiao, Xiao Chen, Guihai Chen. [VISIT: Placement of Unmanned Aerial Vehicles for Anisotropic Monitoring Tasks.](http://weijunalexwang.github.io/files/VISIT2019.pdf) In Proceedings of IEEE International Conference on Sensing, Communication and Networking (SECON), 2019.
 * $\color{red}{[INFOCOM'19]}$ **Weijun Wang**, Haipeng Dai, Chao Dong, Xiao Chen, Xiaoyu Wang, Guihai Chen, Wanchun Dou. [PANDA: Placement of Unmanned Aerial Vehicles Achieving 3D Directional Coverage.](http://weijunalexwang.github.io/files/08737545.pdf) In Proceedings of IEEE International Conference on Computer Communications (INFOCOM), 2019.
