@@ -17,29 +17,22 @@ University of Goettingen,\\
          
 Biography
 -----
-Currently, I am in [Computer Network Group](http://www.net.informatik.uni-goettingen.de/) in Institute of Computer Science, Faculty of Mathematics and Computer Science, University of Goettingen headed by Prof. [Xiaoming Fu](https://user.informatik.uni-goettingen.de/~fu/) and Prof. [Marcus Baum](https://www.uni-goettingen.de/de/523550.html). Meanwhile, I am also in [LANDS](https://cs.nju.edu.cn/lands/index.htm) (Laboratory of Advanced Network and Data Science) Group in Department of Computer Science and Technology in Nanjing University supervised by Prof. [Haipeng Dai](https://cs.nju.edu.cn/daihp/) and headed by Prof. [Guihai Chen](https://cs.nju.edu.cn/gchen/). I respectively received my M.E. degree in Computer Technoloty from PLA University of Science and Technology, in 2017 and B.S. degree in Software Engineering in Nanjing University of of Post and Telecommunication, in 2014.
+Currently, I am in [Computer Network Group](http://www.net.informatik.uni-goettingen.de/) in Institute of Computer Science, Faculty of Mathematics and Computer Science, University of Goettingen headed by Prof. [Xiaoming Fu](https://user.informatik.uni-goettingen.de/~fu/) and Prof. [Marcus Baum](https://www.uni-goettingen.de/de/523550.html). Meanwhile, I am also in [LANDS](https://cs.nju.edu.cn/lands/index.htm) (Laboratory of Advanced Network and Data Science) Group in Department of Computer Science and Technology in Nanjing University supervised by Prof. [Haipeng Dai](https://cs.nju.edu.cn/daihp/) and headed by Prof. [Guihai Chen](https://cs.nju.edu.cn/gchen/).
 
 Research Interests
 -----
-Wireless Sensor Networks, UAV Networks, Edge Computing, Video Stream and Video Analytic. 
-
-Professional Service
------
-**PC Member**
-
-* The 16th International Conference on Mobility, Sensing and Networking (IEEE MSN 2020) - Workshop on Edge Computing and Artiﬁcial Intelligence based Sensor-Cloud System (ECAISS).
+Approximate Algorithm Design in UAV Networks, Streaming Protocol in Video Analytics System. 
 
 Selected Publications
 -----
-**Journal Articles**
+* "Deployment of Unmanned Aerial Vehicles for Anisotropic Monitoring Tasks", IEEE TMC.
+* "Placement of Unmanned Aerial Vehicles for Directional Coverage in 3D Space", IEEE/ACM ToN, Vol 28, 2020.
+* "Practical Heterogeneous Wireless Charger Placement with Obstacles", IEEE TMC.
+* PANDA: Placement of Unmanned Aerial Vehicles Achieving 3D Directional Coverage", IEEE INFOCOM 2019.
 
-* $\color{red}{[TMC]}$ **Weijun Wang**, Haipeng Dai, Chao Dong, Fu Xiao, Jiaqi Zheng, Xiao Cheng, Guihai Chen, Xiaoming Fu. [Deployment of Unmanned Aerial Vehicles for Anisotropic Monitoring Tasks] In Proceedings of IEEE Transactions on Mobile Computing (TMC), 2020.
-* $\color{red}{[TON]}$ **Weijun Wang**, Haipeng Dai, Chao Dong, Xiao Cheng, Xiaoyu Wang, Panlong Yang, Guihai Chen. [Placement of Unmanned Aerial Vehicles for Directional Coverage in 3D Space.](http://weijunalexwang.github.io/files/TON18PANDA.pdf) In Proceedings of IEEE/ACM Transactions on Networking (ToN), Volume: 28 , Issue: 2 , April 2020.
-* $\color{red}{[TMC]}$ Xiaoyu Wang, Haipeng Dai, **Weijun Wang**, Jiaqi Zheng, Guihai Chen, Wanchun Dou and Xiaobing Wu. [Practical Heterogeneous Wireless Charger Placement with Obstacles.](http://weijunalexwang.github.io/files/PHWCPO.pdf) In Proceedings of IEEE Transactions on Mobile Computing (TMC), 2019.
-
-
-**Conference Papers**
-
-* $\color{red}{[SECON'19]}$ **Weijun Wang**, Haipeng Dai, Chao Dong, Fu Xiao, Xiao Chen, Guihai Chen. [VISIT: Placement of Unmanned Aerial Vehicles for Anisotropic Monitoring Tasks.](http://weijunalexwang.github.io/files/VISIT2019.pdf) In Proceedings of IEEE International Conference on Sensing, Communication and Networking (SECON), 2019.
-* $\color{red}{[INFOCOM'19]}$ **Weijun Wang**, Haipeng Dai, Chao Dong, Xiao Chen, Xiaoyu Wang, Guihai Chen, Wanchun Dou. [PANDA: Placement of Unmanned Aerial Vehicles Achieving 3D Directional Coverage.](http://weijunalexwang.github.io/files/08737545.pdf) In Proceedings of IEEE International Conference on Computer Communications (INFOCOM), 2019.
-* $\color{red}{[ICPP'18]}$ Xiaoyu Wang, Haipeng Dai, **Weijun Wang**, Jiaqi Zheng, Guihai Chen, Wanchun Dou and Xiaobing Wu. [Heterogeneous Wireless Charger Placement with Obstacles.](http://weijunalexwang.github.io/files/08714083.pdf) In Proceedings of IEEE International Conference on Parallel Processing (ICPP), 2018.
+News
+-----
+* 12/2020 One poster accepted to ACM EWSN 2020.
+* 06/2020 I will serve as the PC member in MSN 2020 Workshop!
+* 05/2020 One paper accepted to IEEE Transactions on Mobile Computing.
+* 02/2020 One paper accepted to ACM/IEEE Transactions on Networking.
