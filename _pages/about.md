@@ -28,11 +28,11 @@ Selected Publications
 * "Deployment of Unmanned Aerial Vehicles for Anisotropic Monitoring Tasks", IEEE TMC.
 * "Placement of Unmanned Aerial Vehicles for Directional Coverage in 3D Space", IEEE/ACM ToN, Vol 28, 2020.
 * "Practical Heterogeneous Wireless Charger Placement with Obstacles", IEEE TMC.
-* PANDA: Placement of Unmanned Aerial Vehicles Achieving 3D Directional Coverage", IEEE INFOCOM 2019.
+* "PANDA: Placement of Unmanned Aerial Vehicles Achieving 3D Directional Coverage", IEEE INFOCOM 2019.
 
 News
 -----
 * 12/2020 One poster accepted to ACM EWSN 2020.
-* 06/2020 I will serve as the PC member in MSN 2020 Workshop!
+* 06/2020 I will serve as the PC member in [MSN 2020 Workshop](https://cs.nju.edu.cn/lands/msn2020-ecaiss.htm)!
 * 05/2020 One paper accepted to IEEE Transactions on Mobile Computing.
 * 02/2020 One paper accepted to ACM/IEEE Transactions on Networking.
