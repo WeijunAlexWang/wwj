@@ -12,7 +12,7 @@ author_profile: true
 
 
 **Conference Papers**
-* $\color{red}{[Technical\ Report]}$ **Weijun Wang**, Haipeng Dai, Yue Zhao, Chao Dong, Bangbang Ren, Guihai Chen, Xiaoming Fu. [Deploying Adjustable Multi-camera UAVs for Monitoring Tasks.](http://weijunalexwang.github.io/files/MOBIHOC21.pdf) Submit to ACM International Symposium on Mobile Ad Hoc Networking and Computing (MobiHoc), 2021, Under Review.
+* $\color{red}{[ICDCS'21]}$ Bangbang Ren, Deke Guo, Guoming Tang, **Weijun Wang**, Lailong Luo and Xiaoming Fu. SRUF: Low-Latency Path Routing with SRv6 Underlay Federation in Wide Area Network. In Proceedings of IEEE International Conference on Distributed Computing Systems (ICDCS), 2021.
 * $\color{red}{[EWSN'21]}$ **Weijun Wang**, Tingting Yuan, Minghao Han, Meng Li, Han Zhang, Yu Ma, Sripriya Srikant Adhatarao, Xiaoming Fu. A Real-time Social Distance Measurement and Record System for COVID-19. In Proceedings of ACM International Conference on Embedded Wireless Systems and Networks (EWSN), 2021.
 * $\color{red}{[SECON'19]}$ **Weijun Wang**, Haipeng Dai, Chao Dong, Fu Xiao, Xiao Chen, Guihai Chen. [VISIT: Placement of Unmanned Aerial Vehicles for Anisotropic Monitoring Tasks.](http://weijunalexwang.github.io/files/VISIT2019.pdf) In Proceedings of IEEE International Conference on Sensing, Communication and Networking (SECON), 2019.
 * $\color{red}{[INFOCOM'19]}$ **Weijun Wang**, Haipeng Dai, Chao Dong, Xiao Chen, Xiaoyu Wang, Guihai Chen, Wanchun Dou. [PANDA: Placement of Unmanned Aerial Vehicles Achieving 3D Directional Coverage.](http://weijunalexwang.github.io/files/08737545.pdf) In Proceedings of IEEE International Conference on Computer Communications (INFOCOM), 2019.
@@ -22,3 +22,5 @@ author_profile: true
 * $\color{red}{[MSN'16]}$ **Weijun Wang**, Chao Dong, Hai Wang and Jiang Anzhou. [Design and Implementation of Adaptive MAC Framework for UAV Ad Hoc Networks.](http://weijunalexwang.github.io/files/07950233.pdf) In Proceedings of IEEE International Conference on Mobile Ad-Hoc and Sensor Networks (MSN), 2016.
 * $\color{red}{[WCSP'16]}$ Jiejie Xie, Chao Dong, Hai Wang and **Weijun Wang**. [A packet-based load balancing scheme for network coding in tactical heterogeneous wireless networks.](http://weijunalexwang.github.io/files/07752659.pdf) In Proceedings of the IEEE International Conference on Wireless Communications and Signal Processing (WCSP), 2016.
 
+**Technique Report**
+* $\color{red}{[Technical\ Report]}$ **Weijun Wang**, Haipeng Dai, Yue Zhao, Chao Dong, Bangbang Ren, Guihai Chen, Xiaoming Fu. [Deploying Adjustable Multi-camera UAVs for Monitoring Tasks.](http://weijunalexwang.github.io/files/MOBIHOC21.pdf) Submit to ACM International Symposium on Mobile Ad Hoc Networking and Computing (MobiHoc), 2021, Under Review.
