@@ -17,7 +17,7 @@ University of Goettingen,\\
          
 Biography
 -----
-I am a Ph.D student in [Computer Network Group](http://www.net.informatik.uni-goettingen.de/) in Institute of Computer Science, Faculty of Mathematics and Computer Science, University of Goettingen headed by Prof. [Xiaoming Fu](https://user.informatik.uni-goettingen.de/~fu/) and Prof. [Marcus Baum](https://www.uni-goettingen.de/de/523550.html). Meanwhile, I am also in [LANDS](https://cs.nju.edu.cn/lands/index.htm) (Laboratory of Advanced Network and Data Science) Group in Department of Computer Science and Technology in Nanjing University without entrance examination supervised by Prof. [Haipeng Dai](https://cs.nju.edu.cn/daihp/) and headed by Prof. [Guihai Chen](https://cs.nju.edu.cn/gchen/).
+I am a joint Ph.D student in [Computer Network Group](http://www.net.informatik.uni-goettingen.de/), Faculty of Mathematics and Computer Science, University of Goettingen and [LANDS](https://cs.nju.edu.cn/lands/index.htm) (Laboratory of Advanced Network and Data Science) Group, Department of Computer Science and Technology, Nanjing University without entrance examination. My supervisors are Prof. [Xiaoming Fu](https://user.informatik.uni-goettingen.de/~fu/) and Prof. [Marcus Baum](https://www.uni-goettingen.de/de/523550.html) from UGoettingen, and, Prof. [Guihai Chen](https://cs.nju.edu.cn/gchen/) and Prof. [Haipeng Dai](https://cs.nju.edu.cn/daihp/) from NJU. Before that, I received my Bachelor degree from Nanjing University of Post and Telecommunication.
 
 Research Interests
 -----
@@ -33,7 +33,7 @@ Selected Publications
 News
 -----
 * 03/2021 One paper accepted to IEEE ICDCS 2021.
-* 12/2020 One poster accepted to ACM EWSN 2020.
+* 12/2020 One paper accepted to ACM EWSN 2020.
 * 06/2020 I will serve as the PC member in [MSN 2020 Workshop](https://cs.nju.edu.cn/lands/msn2020-ecaiss.htm)!
 * 05/2020 One paper accepted to IEEE Transactions on Mobile Computing.
 * 02/2020 One paper accepted to ACM/IEEE Transactions on Networking.
