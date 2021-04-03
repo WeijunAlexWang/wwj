@@ -32,6 +32,7 @@ Selected Publications
 
 News
 -----
+* 04/2021 I will serve as the Guest Editor for Special Issue "Recent Advances in Algorithm and Distributed Computing for the Internet of Things" on journal  Sensors (IF: 3.275, ISSN 1424-8220).
 * 03/2021 One paper accepted to IEEE ICDCS 2021.
 * 12/2020 One paper accepted to ACM EWSN 2020.
 * 06/2020 I will serve as the PC member in [MSN 2020 Workshop](https://cs.nju.edu.cn/lands/msn2020-ecaiss.htm) !
