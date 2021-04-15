@@ -32,7 +32,7 @@ Selected Publications
 
 News
 -----
-* 04/2021 I will serve as the Guest Editor for a Special Issuer on Journal [Sensors](https://www.mdpi.com/journal/sensors/special_issues/Algorithm_Distributed_Computing_IOT).
+* 04/2021 I will serve as the Guest Editor for a [Special Issuer on Journal Sensors](https://www.mdpi.com/journal/sensors/special_issues/Algorithm_Distributed_Computing_IOT).
 * 03/2021 One paper accepted to IEEE ICDCS 2021.
 * 12/2020 One paper accepted to ACM EWSN 2020.
 * 06/2020 I will serve as the PC member in [MSN 2020 Workshop](https://cs.nju.edu.cn/lands/msn2020-ecaiss.htm) !
