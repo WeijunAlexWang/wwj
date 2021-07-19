@@ -21,7 +21,7 @@ Now, I am a research assistant in [Computer Network Group](http://www.net.inform
 
 Research Interests
 -----
-Approximate Algorithm Design in UAV Networks, Streaming Protocol in Video Analytics System. 
+Video Analytics System, DNN-Application on Mobile System, Approximate Algorithm Design in UAV Networks. 
 
 Selected Publications
 -----
