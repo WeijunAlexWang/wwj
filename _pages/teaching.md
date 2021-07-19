@@ -16,6 +16,9 @@ From February, 2019 to June, 2019, as teaching assistant of Mathematical Analysi
 **Graduate Course**
 
 * **Smart City**, teaching assistant, University of Goettingen, Goettigen, Germany.\\
+From April, 2021 to Junly 2021, as teaching assistant of smart city course which focus on **Video analytics** topic, in Falcuty of Mathematics and Computer Science.
+
+* **Smart City**, teaching assistant, University of Goettingen, Goettigen, Germany.\\
 From November, 2020 to February 2021, as teaching assistant of smart city course which focus on **Video analytics** topic, in Falcuty of Mathematics and Computer Science.
 
 * **Seminar on Internet Technologies**, teaching assistant, University of Goettingen, Goettigen, Germany.\\
