@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 **Journal Articles**
+* $\color{red}{[TON]}$ Bangbang Ren, Yali Yuan, Deke Guo, Guoming Tang, **Weijun Wang**, Xiaoming Fu. [Optimal Deployment of SRv6 to Enable Network Interconnection Service.] In Proceedings of IEEE Transactions on Networking (TON), 2021.
 * $\color{red}{[TMC]}$ **Weijun Wang**, Haipeng Dai, Chao Dong, Fu Xiao, Jiaqi Zheng, Xiao Cheng, Guihai Chen, Xiaoming Fu. [Deployment of Unmanned Aerial Vehicles for Anisotropic Monitoring Tasks.](http://weijunalexwang.github.io/files/TMC2018.pdf) In Proceedings of IEEE Transactions on Mobile Computing (TMC), 2020.
 * $\color{red}{[TON]}$ **Weijun Wang**, Haipeng Dai, Chao Dong, Xiao Cheng, Xiaoyu Wang, Panlong Yang, Guihai Chen. [Placement of Unmanned Aerial Vehicles for Directional Coverage in 3D Space.(Technical Report)](http://weijunalexwang.github.io/files/TON18PANDA.pdf) In Proceedings of IEEE/ACM Transactions on Networking (ToN), Volume 28, Issue 2, April 2020.
 * $\color{red}{[TMC]}$ Xiaoyu Wang, Haipeng Dai, **Weijun Wang**, Jiaqi Zheng, Guihai Chen, Wanchun Dou and Xiaobing Wu. [Practical Heterogeneous Wireless Charger Placement with Obstacles.](http://weijunalexwang.github.io/files/PHWCPO.pdf) In Proceedings of IEEE Transactions on Mobile Computing (TMC), 2019.
