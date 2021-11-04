@@ -28,7 +28,7 @@ Selected Publications
 * "Deployment of Unmanned Aerial Vehicles for Anisotropic Monitoring Tasks", IEEE TMC.
 * "Placement of Unmanned Aerial Vehicles for Directional Coverage in 3D Space", IEEE/ACM ToN, Vol 28, 2020.
 * "Practical Heterogeneous Wireless Charger Placement with Obstacles", IEEE TMC.
-* "PANDA: Placement of Unmanned Aerial Vehicles Achieving 3D Directional Coverage", IEEE INFOCOM 2019.
+* "Optimal Deployment of SRv6 to Enable Network Interconnection Service", IEEE/ACM ToN.
 
 News
 -----
