@@ -32,6 +32,7 @@ Selected Publications
 
 News
 -----
+* 12/2021 One paper was accepted to IEEE INFOCOM'22.
 * 07/2021 One paper was accepted to ACM/IEEE Transactions on Networking.
 * 05/2021 I will serve as the PC for IEEE ICPADS'21.
 * 04/2021 I will serve as the Guest Editor for a [Special Issuer on Journal Sensors](https://www.mdpi.com/journal/sensors/special_issues/Algorithm_Distributed_Computing_IOT).
