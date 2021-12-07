@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 **Journal Articles**
+* $\color{red}{[TMC]}$ Yuben Qu, Lihao Wang, Haipeng Dai, **Weijun Wang**, Chao Dong, Fan Wu, and Song Guo. [Server Placement for Edge Computing: A Robust Submodular Maximization Approach.] In Proceedings of IEEE Transactions on Mobile Computing (TMC), 2021, accepted.
 * $\color{red}{[TON]}$ Bangbang Ren, Yali Yuan, Deke Guo, Guoming Tang, **Weijun Wang**, Xiaoming Fu. [Optimal Deployment of SRv6 to Enable Network Interconnection Service.] In Proceedings of IEEE Transactions on Networking (TON), DOI: 10.1109/TNET.2021.3105959, 2021.
 * $\color{red}{[TMC]}$ **Weijun Wang**, Haipeng Dai, Chao Dong, Fu Xiao, Jiaqi Zheng, Xiao Cheng, Guihai Chen, Xiaoming Fu. [Deployment of Unmanned Aerial Vehicles for Anisotropic Monitoring Tasks.](http://weijunalexwang.github.io/files/TMC2018.pdf) In Proceedings of IEEE Transactions on Mobile Computing (TMC), DOI: 10.1109/TMC.2020.3012791, 2020.
 * $\color{red}{[TON]}$ **Weijun Wang**, Haipeng Dai, Chao Dong, Xiao Cheng, Xiaoyu Wang, Panlong Yang, Guihai Chen. [Placement of Unmanned Aerial Vehicles for Directional Coverage in 3D Space.(Technical Report)](http://weijunalexwang.github.io/files/TON18PANDA.pdf) In Proceedings of IEEE/ACM Transactions on Networking (ToN), Volume 28, Issue 2, April 2020.
