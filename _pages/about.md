@@ -32,6 +32,7 @@ Selected Publications
 
 News
 -----
+* 12/2021 One paper was accepted to IEEE Transactions on Mobile Computing.
 * 12/2021 One paper was accepted to IEEE INFOCOM'22.
 * 07/2021 One paper was accepted to ACM/IEEE Transactions on Networking.
 * 05/2021 I will serve as the PC for IEEE ICPADS'21.
