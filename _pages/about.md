@@ -32,6 +32,7 @@ Selected Publications
 
 News
 -----
+* 03/2022 One paper was accepted to IEEE World Wide Web Journal.
 * 12/2021 One paper was accepted to IEEE Transactions on Mobile Computing.
 * 12/2021 One paper was accepted to IEEE INFOCOM'22.
 * 07/2021 One paper was accepted to ACM/IEEE Transactions on Networking.
