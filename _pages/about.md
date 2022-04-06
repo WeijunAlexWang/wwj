@@ -17,7 +17,7 @@ University of Goettingen,\\
          
 Biography
 -----
-Now, I am a research assistant and Ph.D student in [Computer Network Group](http://www.net.informatik.uni-goettingen.de/), Faculty of Mathematics and Computer Science, University of Goettingen. My supervisors are Prof. [Xiaoming Fu](https://user.informatik.uni-goettingen.de/~fu/) (1st supervisor) and Prof. [Marcus Baum](https://www.uni-goettingen.de/de/523550.html) (2nd supervisor) from UGoettingen, and, Prof. [Guihai Chen](https://cs.nju.edu.cn/gchen/) (3rd supervisor) from NJU. I collaborate closely with Prof. [Haipeng Dai](https://cs.nju.edu.cn/daihp/), Department of Computer Science and Technology, NJU.
+Now, I am a research assistant and Ph.D student in [Computer Network Group](http://www.net.informatik.uni-goettingen.de/), Faculty of Mathematics and Computer Science, University of Goettingen. My supervisors are Prof. [Xiaoming Fu](https://user.informatik.uni-goettingen.de/~fu/) (1st supervisor) and Prof. [Marcus Baum](https://www.uni-goettingen.de/de/523550.html) (2nd supervisor) from UGoettingen. Before, I was advised by Prof. [Guihai Chen](https://cs.nju.edu.cn/gchen/) (3rd supervisor) and Prof. [Haipeng Dai](https://cs.nju.edu.cn/daihp/), Department of Computer Science and Technology, Nanjing University.
 
 Research Interests
 -----
