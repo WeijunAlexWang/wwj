@@ -32,6 +32,7 @@ Selected Publications
 
 News
 -----
+* 07/2022 Two papers was accepted to IEEE SECON'22.
 * 04/2022 One paper was accepted to IEEE/ACM IWQoS'22.
 * 03/2022 One paper was accepted to IEEE World Wide Web Journal.
 * 12/2021 One paper was accepted to IEEE Transactions on Mobile Computing.
