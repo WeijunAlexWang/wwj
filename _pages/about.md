@@ -9,7 +9,7 @@ redirect_from:
 ---
 Contact
 -----
-weijun.wang@cs.uni-goettingen.de \\
+weijun.wang@informatik.uni-goettingen.de \\
 Institute of Computer Science, \\
 Faculty of Mathematices and Computer Science,\\
 University of Goettingen,\\
