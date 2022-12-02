@@ -34,7 +34,7 @@ Selected Publications
 
 News
 -----
-* 12/2022 Two papers was accepted to IEEE INFOCOM'23.
+* 12/2022 One papers was accepted to IEEE INFOCOM'23.
 * 10/2022 I will serve as the PC for Springer DASFAA'23
 * 07/2022 Two papers was accepted to IEEE SECON'22.
 * 05/2022 I will serve as the PC for Springer ADMA'22
