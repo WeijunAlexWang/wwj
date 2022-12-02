@@ -15,6 +15,7 @@ author_profile: true
 
 
 **Conference Papers**
+* $\color{red}{[INFOCOM'23]}$ Tingting Yuan*, Liang Mi*, **Weijun Wang**, Haipeng Dai, Xiaoming Fu. AccDecoder: Accelerated Decoding for Neural-enhanced Video Analytics. In Proceedings of IEEE International Conference on Computer Communications (INFOCOM), 2023. 
 * $\color{red}{[SECON'22]}$ Haipeng Dai, Yue Zhao, **Weijun Wang**, Rong Gu, Yuben Qu, Chi Lin, Lijie Xu, Wanchun Dou. Placing Wireless Chargers with Multiple Antennas. In Proceedings IEEE International Conference on Sensing, Communication, and Networking (SECON), 2022.
 * $\color{red}{[SECON'22]}$ Haipeng Dai, Xuzhen Lin, Jiaqi Zheng, Yuben Qu, **{Weijun Wang}**, Shuyu Shi, Chi Lin, Wanchun Dou. DARPA: Deployment of UAVs for Polygonal Sizable Object Surveillance. In Proceedings IEEE International Conference on Sensing, Communication, and Networking (SECON), 2022.
 * $\color{red}{[IWQoS'22]}$ Lihao Wang\*, **Weijun Wang\***, Haipeng Dai, Jiaqi Zheng, Bangbang Ren, Shuyu Shi, Rong Gu. [DUET: Joint Deployment of Trucks and Drones for Object Monitoring.](http://weijunalexwang.github.io/files/Duet_IWQoS22.pdf)  In Proceedings of IEEE/ACM International Symposium on Quality of Service (IWQoS), 2022 (**\*Co-first author. Equal Contribution**).
