@@ -9,15 +9,14 @@ redirect_from:
 ---
 Contact
 -----
-weijun.wang@informatik.uni-goettingen.de \\
-Institute of Computer Science, \\
-Faculty of Mathematices and Computer Science,\\
-University of Goettingen,\\
-37077 Goettingen, German
+weijunwang@smail.nju.edu.cn \\
+Department of Computer Science and Technology,\\
+Nanjing University,\\
+Nanjing, China
          
 Biography
 -----
-Now, I am a research assistant and Ph.D student in [Computer Network Group](http://www.net.informatik.uni-goettingen.de/), Faculty of Mathematics and Computer Science, University of Goettingen. My supervisors are Prof. [Xiaoming Fu](https://user.informatik.uni-goettingen.de/~fu/) (1st supervisor) and Prof. [Marcus Baum](https://www.uni-goettingen.de/de/523550.html) (2nd supervisor) from UGoettingen. Before, I was advised by Prof. [Guihai Chen](https://cs.nju.edu.cn/gchen/) (3rd supervisor) and Prof. [Haipeng Dai](https://cs.nju.edu.cn/daihp/), Department of Computer Science and Technology, Nanjing University.
+Now, I am a 5-th year Ph.D student major CS in Nanjing University supervised by Prof. [Guihai Chen](https://cs.nju.edu.cn/gchen/)  and Prof. [Haipeng Dai](https://cs.nju.edu.cn/daihp/), Department of Computer Science and Technology, Nanjing University. Currently, I am a research intern in Tsinghua AIR metored by Prof. [Yunxin Liu](https://yunxinliu.github.io/). I am also a Postdoc Researcher belonged to the [Computer Network Group](http://www.net.informatik.uni-goettingen.de/) directed by Prof. [Xiaoming Fu](https://user.informatik.uni-goettingen.de/~fu/), Faculty of Mathematics and Computer Science, University of Goettingen. 
 
 I'm currently on the job market. I'm looking for a postdoc/researcher position where I can learn new things, tackle challenging problems, and build practical systems that have a real-world impact. Feel free to contact me!
 
