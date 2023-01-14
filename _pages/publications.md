@@ -16,7 +16,7 @@ author_profile: true
 
 
 **Conference Papers**
-* $\color{red}{[INFOCOM'23]}$ Tingting Yuan*, Liang Mi*, **Weijun Wang**, Haipeng Dai, Xiaoming Fu. AccDecoder: Accelerated Decoding for Neural-enhanced Video Analytics[http://weijunalexwang.github.io/files/AccDecoder_INFOCOM23.pdf]. In Proceedings of IEEE International Conference on Computer Communications (INFOCOM), 2023. 
+* $\color{red}{[INFOCOM'23]}$ Tingting Yuan\*, Liang Mi\*, **Weijun Wang**, Haipeng Dai, Xiaoming Fu. [AccDecoder: Accelerated Decoding for Neural-enhanced Video Analytics](http://weijunalexwang.github.io/files/AccDecoder_INFOCOM23.pdf). In Proceedings of IEEE International Conference on Computer Communications (INFOCOM), 2023. 
 * $\color{red}{[SECON'22]}$ Haipeng Dai, Yue Zhao, **Weijun Wang**, Rong Gu, Yuben Qu, Chi Lin, Lijie Xu, Wanchun Dou. Placing Wireless Chargers with Multiple Antennas. In Proceedings IEEE International Conference on Sensing, Communication, and Networking (SECON), 2022.
 * $\color{red}{[SECON'22]}$ Haipeng Dai, Xuzhen Lin, Jiaqi Zheng, Yuben Qu, **{Weijun Wang}**, Shuyu Shi, Chi Lin, Wanchun Dou. DARPA: Deployment of UAVs for Polygonal Sizable Object Surveillance. In Proceedings IEEE International Conference on Sensing, Communication, and Networking (SECON), 2022.
 * $\color{red}{[ICDCS'22 workshop]}$ Xiaoming Fu, Tinging Yuan, **Weijun Wang**, Fabian Wölk and G. StrunzTowards. Exploiting Stakeholder Resources for Data-Driven Resilient Hazard Management. In Proceedings of IEEE International Workshop on Social and Metaverse Computing and Networking (SocialMeta), 2022.
