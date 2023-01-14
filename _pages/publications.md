@@ -7,7 +7,7 @@ author_profile: true
 
 **Journal Articles**
 * $\color{red}{[TON]}$ Rui Xia, Haipeng, Dai, Jiaqi Zheng, Rong Gu, Xiaoyu Wang, **Weijun Wang**, Guihai Chen. SAFE:Service Availability via Failure Elimination Through VNF Scaling. In Proceedings of IEEE Transactions on Networking (ToN), 2022, accepted.
-* * $\color{red}{[WWWJ]}$ Yuben Qu, Haipeng Dai, Lihao Wang, **Weijun Wang**, Fan Wu, Haisheng Tan, Shaojie Tang, and Chao Dong. [CoTask: Correlation-Aware Task Offloading in Edge Computing.] In Proceedings of IEEE World Wide Web Journal (WWWJ), 2022, accepted.
+* $\color{red}{[WWWJ]}$ Yuben Qu, Haipeng Dai, Lihao Wang, **Weijun Wang**, Fan Wu, Haisheng Tan, Shaojie Tang, and Chao Dong. [CoTask: Correlation-Aware Task Offloading in Edge Computing.] In Proceedings of IEEE World Wide Web Journal (WWWJ), 2022, accepted.
 * $\color{red}{[TMC]}$ Yuben Qu, Lihao Wang, Haipeng Dai, **Weijun Wang**, Chao Dong, Fan Wu, and Song Guo. [Server Placement for Edge Computing: A Robust Submodular Maximization Approach.](http://weijunalexwang.github.io/files/TMC2021.pdf) In Proceedings of IEEE Transactions on Mobile Computing (TMC), DOI: 10.1109/TMC.2021.3136868, 2021.
 * $\color{red}{[TON]}$ Bangbang Ren, Yali Yuan, Deke Guo, Guoming Tang, **Weijun Wang**, Xiaoming Fu. [Optimal Deployment of SRv6 to Enable Network Interconnection Service.](http://weijunalexwang.github.io/files/SRv6_ton2022l.pdf) In Proceedings of IEEE Transactions on Networking (TON), DOI: 10.1109/TNET.2021.3105959, 2021.
 * $\color{red}{[TMC]}$ **Weijun Wang**, Haipeng Dai, Chao Dong, Fu Xiao, Jiaqi Zheng, Xiao Cheng, Guihai Chen, Xiaoming Fu. [Deployment of Unmanned Aerial Vehicles for Anisotropic Monitoring Tasks.](http://weijunalexwang.github.io/files/TMC2018.pdf) In Proceedings of IEEE Transactions on Mobile Computing (TMC), DOI: 10.1109/TMC.2020.3012791, 2020.
@@ -16,7 +16,7 @@ author_profile: true
 
 
 **Conference Papers**
-* $\color{red}{[INFOCOM'23]}$ Tingting Yuan*, Liang Mi*, **Weijun Wang**, Haipeng Dai, Xiaoming Fu. AccDecoder: Accelerated Decoding for Neural-enhanced Video Analytics. In Proceedings of IEEE International Conference on Computer Communications (INFOCOM), 2023. 
+* $\color{red}{[INFOCOM'23]}$ Tingting Yuan*, Liang Mi*, **Weijun Wang**, Haipeng Dai, Xiaoming Fu. AccDecoder: Accelerated Decoding for Neural-enhanced Video Analytics (http://weijunalexwang.github.io/files/AccDecoder_INFOCOM23.pdf). In Proceedings of IEEE International Conference on Computer Communications (INFOCOM), 2023. 
 * $\color{red}{[SECON'22]}$ Haipeng Dai, Yue Zhao, **Weijun Wang**, Rong Gu, Yuben Qu, Chi Lin, Lijie Xu, Wanchun Dou. Placing Wireless Chargers with Multiple Antennas. In Proceedings IEEE International Conference on Sensing, Communication, and Networking (SECON), 2022.
 * $\color{red}{[SECON'22]}$ Haipeng Dai, Xuzhen Lin, Jiaqi Zheng, Yuben Qu, **{Weijun Wang}**, Shuyu Shi, Chi Lin, Wanchun Dou. DARPA: Deployment of UAVs for Polygonal Sizable Object Surveillance. In Proceedings IEEE International Conference on Sensing, Communication, and Networking (SECON), 2022.
 * $\color{red}{[ICDCS'22 workshop]}$ Xiaoming Fu, Tinging Yuan, **Weijun Wang**, Fabian Wölk and G. StrunzTowards. Exploiting Stakeholder Resources for Data-Driven Resilient Hazard Management. In Proceedings of IEEE International Workshop on Social and Metaverse Computing and Networking (SocialMeta), 2022.
