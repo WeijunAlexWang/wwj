@@ -45,12 +45,5 @@ News
 * 12/2021 One paper was accepted to IEEE INFOCOM'22.
 * 07/2021 One paper was accepted to ACM/IEEE Transactions on Networking.
 * 05/2021 I will serve as the PC for IEEE ICPADS'21.
-* 04/2021 I will serve as the Guest Editor for a [Special Issuer on Journal Sensors](https://www.mdpi.com/journal/sensors/special_issues/Algorithm_Distributed_Computing_IOT).
-* 03/2021 One paper was accepted to IEEE ICDCS 2021.
-* 12/2020 One paper was accepted to ACM EWSN 2020.
-* 06/2020 I will serve as the PC member in [MSN 2020 Workshop](https://cs.nju.edu.cn/lands/msn2020-ecaiss.htm).
-* 05/2020 One paper was accepted to IEEE Transactions on Mobile Computing.
-* 02/2020 One paper waas accepted to ACM/IEEE Transactions on Networking.
-
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5dwo44hbxw9&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
