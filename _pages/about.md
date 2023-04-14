@@ -16,7 +16,7 @@ Beijing, China
          
 Biography
 -----
-Now, I am a Postdoc Reseach at Tsinghua University, Institute for AI Industry Research (AIR), mentored by Prof. [Yunxin Liu](https://yunxinliu.github.io/). 
+I am a Postdoc Reseacher at Tsinghua University, Institute for AI Industry Research (AIR), mentored by Prof. [Yunxin Liu](https://yunxinliu.github.io/). 
 I received two doctoral degrees respectively from Nanjing University (coadvised by Prof. [Guihai Chen](https://cs.nju.edu.cn/gchen/)  and Prof. [Haipeng Dai](https://cs.nju.edu.cn/daihp/)) and University of Goettingen (advised by Prof. [Xiaoming Fu](https://user.informatik.uni-goettingen.de/~fu/)). I interned at Tsinghua AIR AIoT group from Nov. 2022 to Apr. 2023.
 
 Research Interests
