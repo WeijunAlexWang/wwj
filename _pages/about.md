@@ -17,7 +17,7 @@ Beijing, China
 Biography
 -----
 I am a Postdoc Reseacher at Tsinghua University, Institute for AI Industry Research (AIR), mentored by Prof. [Yunxin Liu](https://yunxinliu.github.io/). 
-I received two doctoral degrees respectively from Nanjing University (coadvised by Prof. [Guihai Chen](https://cs.nju.edu.cn/gchen/)  and Prof. [Haipeng Dai](https://cs.nju.edu.cn/daihp/)) and University of Goettingen (advised by Prof. [Xiaoming Fu](https://user.informatik.uni-goettingen.de/~fu/)).
+I received two doctoral degrees (not Dual Degree Programs) respectively from Nanjing University (coadvised by Prof. [Guihai Chen](https://cs.nju.edu.cn/gchen/)  and Prof. [Haipeng Dai](https://cs.nju.edu.cn/daihp/)) and University of Goettingen (advised by Prof. [Xiaoming Fu](https://user.informatik.uni-goettingen.de/~fu/)).
 
 Research Interests
 -----
