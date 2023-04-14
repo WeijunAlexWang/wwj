@@ -9,7 +9,7 @@ redirect_from:
 ---
 Contact
 -----
-weijunwang@gmail.com \\
+wangalexweijun@gmail.com \\
 Institute for AI Industry Research,\\
 Tsinghua University,\\
 Beijing, China
