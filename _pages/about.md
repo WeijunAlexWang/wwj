@@ -10,9 +10,7 @@ redirect_from:
 Contact
 -----
 wangalexweijun@gmail.com \\
-Institute for AI Industry Research,\\
-Tsinghua University,\\
-Beijing, China
+Institute for AI Industry Research, Tsinghua University, Beijing, China
          
 Biography
 -----
