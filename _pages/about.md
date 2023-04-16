@@ -14,7 +14,7 @@ Institute for AI Industry Research, Tsinghua University, Beijing, China
          
 Biography
 -----
-I am a Postdoc Reseacher at Institute for AI Industry Research (AIR), Tsinghua University, working with Prof. [Yunxin Liu](https://yunxinliu.github.io/). 
+I am a Postdoc Reseacher in [AIoT Group](https://air.tsinghua.edu.cn/en/Research1/AI_IoT.htm) (leading by Prof. [Yunxin Liu](https://yunxinliu.github.io/)) at Institute for AI Industry Research (AIR), Tsinghua University. 
 Before that, I received two Ph.D. degrees (not Dual Degree Program) respectively from Nanjing University (co-advised by Prof. [Guihai Chen](https://cs.nju.edu.cn/gchen/) and Prof. [Haipeng Dai](https://cs.nju.edu.cn/daihp/)) and University of Goettingen (advised by Prof. [Xiaoming Fu](https://user.informatik.uni-goettingen.de/~fu/)).
 
 Research Interests
