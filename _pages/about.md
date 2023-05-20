@@ -22,15 +22,19 @@ Video Analytics System, DNN-Application on Mobile System, Approximate Algorithm 
 
 Selected Publications
 -----
-* "Deployment of Unmanned Aerial Vehicles for Anisotropic Monitoring Tasks", IEEE TMC.
+* "Joint Optimization of QoE and Fairness for Adaptive Video Streaming in Heterogeneous Mobile Environments", IEEE ToN.
 * "Placement of Unmanned Aerial Vehicles for Directional Coverage in 3D Space", IEEE/ACM ToN.
 * "AccDecoder: Accelerated Decoding for Neuralenhanced Video Analytics", IEEE INFOCOM.
-* "VSiM: Improving QoE Fairness for Video Streaming in Mobile Environments.", IEEE/ACM ToN.
+* "VSiM: Improving QoE Fairness for Video Streaming in Mobile Environments.", IEEE INFOCOM.
 
 News
 -----
+* 04/2023 One paper was accepted to IEEE/ACM Transactions on Networking.
+* 02/2023 I was invited to give a talk @ SJTU, China.
+* 01/2023 Our work was invited to presented @ KCL, UK.
 * 12/2022 One paper was accepted to IEEE INFOCOM'23.
 * 11/2022 One paper was accepted to ACM/IEEE Transactions on Networking.
+* 11/2022 I was invited to give a talk @ SEU, China.
 * 10/2022 I will serve as the PC for Springer DASFAA'23
 * 07/2022 One paper was accepted to IEEE ICDCS'22 workshop on SocialMeta.
 * 07/2022 Two papers were accepted to IEEE SECON'22.
