@@ -4,6 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+* $\color{red}{[TON]}$ Yali Yuan\*, **Weijun Wang\***, Yuhan Wang, Sripriya Srikant Adhatarao, Bangbang Ren, Kai Zheng and Xiaoming Fu. Joint Optimization of QoE and Fairness for Adaptive Video Streaming in Heterogeneous Mobile Environments. In Proceedings of IEEE Transactions on Networking (ToN), 2023, accepted. (**\*Co-first author. Equal Contribution**).
 * $\color{red}{[INFOCOM'23]}$ Tingting Yuan\*, Liang Mi\*, **Weijun Wang**, Haipeng Dai, Xiaoming Fu. [AccDecoder: Accelerated Decoding for Neural-enhanced Video Analytics](http://weijunalexwang.github.io/files/AccDecoder_INFOCOM23.pdf). In Proceedings of IEEE International Conference on Computer Communications (INFOCOM), 2023. 
 * $\color{red}{[TON]}$ Rui Xia, Haipeng, Dai, Jiaqi Zheng, Rong Gu, Xiaoyu Wang, **Weijun Wang**, Guihai Chen. SAFE:Service Availability via Failure Elimination Through VNF Scaling. In Proceedings of IEEE Transactions on Networking (ToN), 2022, accepted.
 * $\color{red}{[SECON'22]}$ Haipeng Dai, Yue Zhao, **Weijun Wang**, Rong Gu, Yuben Qu, Chi Lin, Lijie Xu, Wanchun Dou. Placing Wireless Chargers with Multiple Antennas. In Proceedings IEEE International Conference on Sensing, Communication, and Networking (SECON), 2022.
